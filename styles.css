@@ -1,0 +1,14 @@
+#new-question {
+  font-size: 4em;
+}
+
+
+
+.correct {
+  background-color: green;
+  /* transition: background color 1s ease-out; */
+}
+
+.incorrect {
+  background-color: red;
+}
